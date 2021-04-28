@@ -1,6 +1,0 @@
-Java ,no,yes,1024,1,0.032177
-Java ,medium,no,1024,2,0.321
-Python,high,no,512,2,0.254125615
-Ruby,medium,no,512,1,0.074348668
-NodeJs,no,yes,1024,1,602.41
-Go,medium,no,2048,1,51.13094957

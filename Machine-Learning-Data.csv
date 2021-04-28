@@ -13,6 +13,7 @@ Java ,no,yes,512,1,0.015946
 Java ,low,no,1024,1,0.429
 Java ,medium,no,1024,1,0.167
 Java ,high,no,1024,1,0.102
+Java ,no,yes,1024,1,0.032177
 Java ,low,no,2048,1,0.739
 Java ,medium,no,2048,1,0.274
 Java ,high,no,2048,1,0.171
@@ -30,6 +31,7 @@ Java ,medium,no,512,2,0.132
 Java ,high,no,512,2,0.173
 Java ,no,yes,512,2,0.06137
 Java ,low,no,1024,2,0.74
+Java ,medium,no,1024,2,0.321
 Java ,high,no,1024,2,0.18
 Java ,no,yes,1024,2,0.062976
 Java ,low,no,2048,2,0.618
@@ -66,6 +68,7 @@ Python,high,no,256,2,0.134489721
 Python,no,yes,256,2,0.000000246
 Python,low,no,512,2,0.973230254
 Python,medium,no,512,2,0.405801191
+Python,high,no,512,2,0.254125615
 Python,no,yes,512,2,0.0000012
 Python,low,no,1024,2,0.851017952
 Python,medium,no,1024,2,0.437557883
@@ -84,6 +87,7 @@ Ruby,medium,no,256,1,0.036298326
 Ruby,high,no,256,1,0.021558796
 Ruby,no,yes,256,1,0.0000728
 Ruby,low,no,512,1,0.151549135
+Ruby,medium,no,512,1,0.074348668
 Ruby,high,no,512,1,0.043873504
 Ruby,no,yes,512,1,0.000155185
 Ruby,low,no,1024,1,0.30883452
@@ -129,6 +133,7 @@ NodeJs,no,yes,512,1,334.02
 NodeJs,low,no,1024,1,208.86
 NodeJs,medium,no,1024,1,142.64
 NodeJs,high,no,1024,1,107.55
+NodeJs,no,yes,1024,1,602.41
 NodeJs,low,no,2048,1,371.15
 NodeJs,medium,no,2048,1,248.64
 NodeJs,high,no,2048,1,187.82
@@ -170,6 +175,7 @@ Go,medium,no,1024,1,36.35003371
 Go,high,no,1024,1,14.66873174
 Go,no,yes,1024,1,0.020403862
 Go,low,no,2048,1,82.8308556
+Go,medium,no,2048,1,51.13094957
 Go,high,no,2048,1,28.35333805
 Go,no,yes,2048,1,0.039139177
 Go,low,no,128,2,5.497067723
