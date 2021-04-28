@@ -1,0 +1,194 @@
+Java ,low,no,128,1,0.072
+Java ,medium,no,128,1,0.013
+Java ,high,no,128,1,0.008
+Java ,no,yes,128,1,0.008129
+Java ,low,no,256,1,0.07
+Java ,medium,no,256,1,0.03
+Java ,high,no,256,1,0.017
+Java ,no,yes,256,1,0.008112
+Java ,low,no,512,1,0.161
+Java ,medium,no,512,1,0.074
+Java ,high,no,512,1,0.042
+Java ,no,yes,512,1,0.015946
+Java ,low,no,1024,1,0.429
+Java ,medium,no,1024,1,0.167
+Java ,high,no,1024,1,0.102
+Java ,low,no,2048,1,0.739
+Java ,medium,no,2048,1,0.274
+Java ,high,no,2048,1,0.171
+Java ,no,yes,2048,1,0.066103
+Java ,low,no,128,2,0
+Java ,medium,no,128,2,0
+Java ,high,no,128,2,0
+Java ,no,yes,128,2,0
+Java ,low,no,256,2,0.671
+Java ,medium,no,256,2,0.067
+Java ,high,no,256,2,0.035
+Java ,no,yes,256,2,0
+Java ,low,no,512,2,0.713
+Java ,medium,no,512,2,0.132
+Java ,high,no,512,2,0.173
+Java ,no,yes,512,2,0.06137
+Java ,low,no,1024,2,0.74
+Java ,high,no,1024,2,0.18
+Java ,no,yes,1024,2,0.062976
+Java ,low,no,2048,2,0.618
+Java ,medium,no,2048,2,0.275
+Java ,high,no,2048,2,0.167
+Java ,no,yes,2048,2,0.06262
+Python,low,no,128,1,0.289749176
+Python,medium,no,128,1,0.250044374
+Python,high,no,128,1,0.100176304
+Python,no,yes,128,1,0.000145512
+Python,low,no,256,1,0.731507548
+Python,medium,no,256,1,0.21901071
+Python,high,no,256,1,0.040446462
+Python,no,yes,256,1,0.000284263
+Python,low,no,512,1,0.865662453
+Python,medium,no,512,1,0.364147066
+Python,high,no,512,1,0.136022975
+Python,no,yes,512,1,0.000578764
+Python,low,no,1024,1,0.945034467
+Python,medium,no,1024,1,0.416662085
+Python,high,no,1024,1,0.205173426
+Python,no,yes,1024,1,0.001158923
+Python,low,no,2048,1,0.989903674
+Python,medium,no,2048,1,0.494974774
+Python,high,no,2048,1,0.282660639
+Python,no,yes,2048,1,0.002046757
+Python,low,no,128,2,0.724230573
+Python,medium,no,128,2,0.258907942
+Python,high,no,128,2,0.298576322
+Python,no,yes,128,2,0
+Python,low,no,256,2,0.921892141
+Python,medium,no,256,2,0.287917939
+Python,high,no,256,2,0.134489721
+Python,no,yes,256,2,0.000000246
+Python,low,no,512,2,0.973230254
+Python,medium,no,512,2,0.405801191
+Python,no,yes,512,2,0.0000012
+Python,low,no,1024,2,0.851017952
+Python,medium,no,1024,2,0.437557883
+Python,high,no,1024,2,0.268809523
+Python,no,yes,1024,2,0.000001
+Python,low,no,2048,2,0.969360469
+Python,medium,no,2048,2,0.484864166
+Python,high,no,2048,2,0.28308381
+Python,no,yes,2048,2,0.00000119
+Ruby,low,no,128,1,0.034476648
+Ruby,medium,no,128,1,0.017488614
+Ruby,high,no,128,1,0.010753574
+Ruby,no,yes,128,1,0
+Ruby,low,no,256,1,0.073028522
+Ruby,medium,no,256,1,0.036298326
+Ruby,high,no,256,1,0.021558796
+Ruby,no,yes,256,1,0.0000728
+Ruby,low,no,512,1,0.151549135
+Ruby,high,no,512,1,0.043873504
+Ruby,no,yes,512,1,0.000155185
+Ruby,low,no,1024,1,0.30883452
+Ruby,medium,no,1024,1,0.145347147
+Ruby,high,no,1024,1,0.08748539
+Ruby,no,yes,1024,1,0.000327108
+Ruby,low,no,2048,1,0.592929904
+Ruby,medium,no,2048,1,0.281740934
+Ruby,high,no,2048,1,0.166045656
+Ruby,no,yes,2048,1,0.000572825
+Ruby,low,no,128,2,0.502527714
+Ruby,medium,no,128,2,0.022718154
+Ruby,high,no,128,2,0.011354653
+Ruby,no,yes,128,2,0
+Ruby,low,no,256,2,0.086138431
+Ruby,medium,no,256,2,0.041687163
+Ruby,high,no,256,2,0.026343436
+Ruby,no,yes,256,2,0.000838398
+Ruby,low,no,512,2,0.172878777
+Ruby,medium,no,512,2,0.095964869
+Ruby,high,no,512,2,0.054352021
+Ruby,no,yes,512,2,0.000805751
+Ruby,low,no,1024,2,0.385133834
+Ruby,medium,no,1024,2,0.164958793
+Ruby,high,no,1024,2,0.096854364
+Ruby,no,yes,1024,2,0.000382479
+Ruby,low,no,2048,2,0.3512642
+Ruby,medium,no,2048,2,0.176705919
+Ruby,high,no,2048,2,0.117268764
+Ruby,no,yes,2048,2,0.000646741
+NodeJs,low,no,128,1,24.88
+NodeJs,medium,no,128,1,16.87
+NodeJs,high,no,128,1,13
+NodeJs,no,yes,128,1,10.76
+NodeJs,low,no,256,1,51.66
+NodeJs,medium,no,256,1,34.98
+NodeJs,high,no,256,1,26.11
+NodeJs,no,yes,256,1,68.06
+NodeJs,low,no,512,1,101.99
+NodeJs,medium,no,512,1,72.62
+NodeJs,high,no,512,1,53.44
+NodeJs,no,yes,512,1,334.02
+NodeJs,low,no,1024,1,208.86
+NodeJs,medium,no,1024,1,142.64
+NodeJs,high,no,1024,1,107.55
+NodeJs,low,no,2048,1,371.15
+NodeJs,medium,no,2048,1,248.64
+NodeJs,high,no,2048,1,187.82
+NodeJs,no,yes,2048,1,1154.61
+NodeJs,low,no,128,2,28.21
+NodeJs,medium,no,128,2,25.79
+NodeJs,high,no,128,2,15.07
+NodeJs,no,yes,128,2,5.42
+NodeJs,low,no,256,2,22.83
+NodeJs,medium,no,256,2,41.05
+NodeJs,high,no,256,2,29.29
+NodeJs,no,yes,256,2,34.72
+NodeJs,low,no,512,2,134.34
+NodeJs,medium,no,512,2,91.4
+NodeJs,high,no,512,2,67.98
+NodeJs,no,yes,512,2,118.82
+NodeJs,low,no,1024,2,317.48
+NodeJs,medium,no,1024,2,231.83
+NodeJs,high,no,1024,2,117.8
+NodeJs,no,yes,1024,2,480
+NodeJs,low,no,2048,2,323.96
+NodeJs,medium,no,2048,2,216.81
+NodeJs,high,no,2048,2,161.86
+NodeJs,no,yes,2048,2,784.59
+Go,low,no,128,1,5.911159689
+Go,medium,no,128,1,3.205161429
+Go,high,no,128,1,1.872686372
+Go,no,yes,128,1,0
+Go,low,no,256,1,20.61050373
+Go,medium,no,256,1,7.269106226
+Go,high,no,256,1,3.491262167
+Go,no,yes,256,1,0.005121434
+Go,low,no,512,1,33.09175879
+Go,medium,no,512,1,11.82320778
+Go,high,no,512,1,8.315947046
+Go,no,yes,512,1,0.010053473
+Go,low,no,1024,1,69.35456192
+Go,medium,no,1024,1,36.35003371
+Go,high,no,1024,1,14.66873174
+Go,no,yes,1024,1,0.020403862
+Go,low,no,2048,1,82.8308556
+Go,high,no,2048,1,28.35333805
+Go,no,yes,2048,1,0.039139177
+Go,low,no,128,2,5.497067723
+Go,medium,no,128,2,2.741624673
+Go,high,no,128,2,1.832738781
+Go,no,yes,128,2,0
+Go,low,no,256,2,15.45550745
+Go,medium,no,256,2,5.526414037
+Go,high,no,256,2,4.134878507
+Go,no,yes,256,2,0.041781818
+Go,low,no,512,2,75.23536282
+Go,medium,no,512,2,14.05750128
+Go,high,no,512,2,7.980322316
+Go,no,yes,512,2,0.035905447
+Go,low,no,1024,2,74.49262573
+Go,medium,no,1024,2,30.40911327
+Go,high,no,1024,2,15.26466078
+Go,no,yes,1024,2,0.042435718
+Go,low,no,2048,2,62.71032335
+Go,medium,no,2048,2,25.79767229
+Go,high,no,2048,2,23.77724399
+Go,no,yes,2048,2,0.032913002

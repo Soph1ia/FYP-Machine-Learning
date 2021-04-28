@@ -1,0 +1,10 @@
+Java ,medium,yes,256,1,label
+Python,medium,yes,256,1,label
+Ruby,medium,yes,256,1,label
+NodeJs,medium,yes,256,1,label
+Go,medium,yes,256,1,label
+Java ,medium,yes,256,2,label
+Python,medium,yes,256,2,label
+Ruby,medium,yes,256,2,label
+NodeJs,medium,yes,256,2,label
+Go,medium,yes,256,2,label
